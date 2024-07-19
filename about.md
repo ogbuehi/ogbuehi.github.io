@@ -8,8 +8,8 @@ Java Devoper fresher with core knowledge of java, spring boot, spring mvc, sprin
 hibernate, MYSQL and JavaFX. Worked on and still working on several projects like banking application, todo-list application, contact-list 
 application, tic-tac-toe game, currency converter, calculator ,etc. with these technologies.
 
-##Contact:
+Contact:
 09112142094
 
-##Linkedin
+Linkedin
 https://www.linkedin.com/in/gideon-ogbuehi-0b34402b0/
