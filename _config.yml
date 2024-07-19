@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Java Developer
+title: Build Java Applications
 email: ogbuehigideon775@gmail.com
 author: Gideon
 
